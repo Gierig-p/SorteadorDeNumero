@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\bin\Debug\net8.0\sorteadorDeNumero.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\bin\Debug\net8.0\sorteadorDeNumero.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\bin\Debug\net8.0\sorteadorDeNumero.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\bin\Debug\net8.0\sorteadorDeNumero.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\bin\Debug\net8.0\sorteadorDeNumero.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\refint\sorteadorDeNumero.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\sorteadorDeNumero.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\sorteadorDeNumero\obj\Debug\net8.0\ref\sorteadorDeNumero.dll
